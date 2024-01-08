@@ -7,7 +7,7 @@
 <h1>ExpensesApp</h1>
 <hr><h2>General Information</h2>
 <hr><ul>
-<li>ExpensesApp gives you the opportunity to control and pay more attention about your payments.</li>
+<li>An application for managing expenses. As part of my work on the application, I was exposed to an open source tool for creating graphs in HTML called Chart Js. The tool helped me create a graph for all the months of the year that shows the customer which month spent the most and which month the least, which gives the customer a better and more pleasant user experience in the application. Built with React..</li>
  <li>Live Demo: https://react-expenses-app-2022.netlify.app/</li>
 </ul><h2>Technologies Used</h2>
 <hr><ul>
